@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Dom
-- 👀 I’m currently working on goose-themed twitter clone _Honker_ and a Cold War mod for the economics simulator _Victoria 3_
-- 🌱 I’m currently learning c# and unity
+- 👀 Lead developer @ Outremer Studios
+- 🌱 Learning Rust
 - 📫 How to reach me: dominic (dot) zappala (at) gmail.com || @dominiczappala
