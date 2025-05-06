@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Dom
 - 👀 Lead developer @ Outremer Studios
-- 🌱 Learning Rust
+- 🌱 Learning GPU rendering APIs and shaders
 - 📫 How to reach me: dominic (dot) zappala (at) gmail.com || @dominiczappala
