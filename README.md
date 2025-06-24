@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Dom
+- 👋 Hi, I’m Ellie
 - 👀 Lead developer @ Outremer Studios
 - 🌱 Learning GPU rendering APIs and shaders
-- 📫 How to reach me: dominic (dot) zappala (at) gmail.com || @dominiczappala
